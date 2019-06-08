@@ -1,0 +1,10 @@
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\bin\Debug\StackRepeat.exe.config
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\bin\Debug\StackRepeat.exe
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\bin\Debug\StackRepeat.pdb
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\obj\Debug\StackRepeat.csprojAssemblyReference.cache
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\obj\Debug\StackRepeat.Properties.Resources.resources
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\obj\Debug\StackRepeat.csproj.GenerateResource.cache
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\obj\Debug\StackRepeat.csproj.CoreCompileInputs.cache
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\obj\Debug\StackRepeat.exe
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\obj\Debug\StackRepeat.pdb
+C:\Users\stasi\source\repos\StackRepeat\StackRepeat\bin\Debug\Resources\Messages.txt
