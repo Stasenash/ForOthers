@@ -1,0 +1,7 @@
+C:\Users\stasi\Documents\ForOthers\LINQRepeat\LINQRepeat\obj\Debug\LINQRepeat.csprojAssemblyReference.cache
+C:\Users\stasi\Documents\ForOthers\LINQRepeat\LINQRepeat\obj\Debug\LINQRepeat.csproj.CoreCompileInputs.cache
+C:\Users\stasi\Documents\ForOthers\LINQRepeat\LINQRepeat\bin\Debug\LINQRepeat.exe.config
+C:\Users\stasi\Documents\ForOthers\LINQRepeat\LINQRepeat\bin\Debug\LINQRepeat.exe
+C:\Users\stasi\Documents\ForOthers\LINQRepeat\LINQRepeat\bin\Debug\LINQRepeat.pdb
+C:\Users\stasi\Documents\ForOthers\LINQRepeat\LINQRepeat\obj\Debug\LINQRepeat.exe
+C:\Users\stasi\Documents\ForOthers\LINQRepeat\LINQRepeat\obj\Debug\LINQRepeat.pdb
