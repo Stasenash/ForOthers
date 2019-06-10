@@ -1,0 +1,7 @@
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_4\Practic_4\bin\Debug\Practic_4.exe.config
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_4\Practic_4\bin\Debug\Practic_4.exe
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_4\Practic_4\bin\Debug\Practic_4.pdb
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_4\Practic_4\obj\Debug\Practic_4.csprojAssemblyReference.cache
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_4\Practic_4\obj\Debug\Practic_4.csproj.CoreCompileInputs.cache
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_4\Practic_4\obj\Debug\Practic_4.exe
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_4\Practic_4\obj\Debug\Practic_4.pdb
