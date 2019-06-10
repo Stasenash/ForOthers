@@ -1,0 +1,14 @@
+C:\Users\stasi\source\repos\Practic_11\Practic_11\bin\Debug\Practic_11.exe.config
+C:\Users\stasi\source\repos\Practic_11\Practic_11\bin\Debug\Practic_11.exe
+C:\Users\stasi\source\repos\Practic_11\Practic_11\bin\Debug\Practic_11.pdb
+C:\Users\stasi\source\repos\Practic_11\Practic_11\obj\Debug\Practic_11.csprojAssemblyReference.cache
+C:\Users\stasi\source\repos\Practic_11\Practic_11\obj\Debug\Practic_11.csproj.CoreCompileInputs.cache
+C:\Users\stasi\source\repos\Practic_11\Practic_11\obj\Debug\Practic_11.exe
+C:\Users\stasi\source\repos\Practic_11\Practic_11\obj\Debug\Practic_11.pdb
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_11\Practic_11\bin\Debug\Practic_11.exe.config
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_11\Practic_11\bin\Debug\Practic_11.exe
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_11\Practic_11\bin\Debug\Practic_11.pdb
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_11\Practic_11\obj\Debug\Practic_11.csprojAssemblyReference.cache
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_11\Practic_11\obj\Debug\Practic_11.csproj.CoreCompileInputs.cache
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_11\Practic_11\obj\Debug\Practic_11.exe
+C:\Users\stasi\Documents\ForOthers\Практики на экзамен\Practic_11\Practic_11\obj\Debug\Practic_11.pdb
